@@ -1,1 +1,9 @@
-# airbnb-api
+## Default `db.json` structure
+
+```json
+{
+  "users": [],
+  "listing": [],
+  "wishlist": []
+}
+```
